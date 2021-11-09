@@ -19,7 +19,7 @@
 //
 
 #import "DLNAHTTPServer_Private.h"
-#import "GCDWebServerDataRequest.h"
+#import <GCDWebServer/GCDWebServerDataRequest.h>
 
 @interface EventInfo : NSObject
 

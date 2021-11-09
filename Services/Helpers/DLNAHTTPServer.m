@@ -23,8 +23,8 @@
 #import "DLNAHTTPServer.h"
 #import "DeviceService.h"
 #import "CTXMLReader.h"
-#import "GCDWebServerDataRequest.h"
-#import "GCDWebServerHTTPStatusCodes.h"
+#import <GCDWebServer/GCDWebServerDataRequest.h>
+#import <GCDWebServer/GCDWebServerHTTPStatusCodes.h>
 #import "ConnectUtil.h"
 
 

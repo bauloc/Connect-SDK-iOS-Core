@@ -21,8 +21,10 @@
 #import "NetcastTVService_Private.h"
 #import "ConnectError.h"
 #import "CTXMLReader.h"
-#import "GCDWebServer.h"
-#import "GCDWebServerDataRequest.h"
+
+#import <GCDWebServer/GCDWebServer.h>
+#import <GCDWebServer/GCDWebServerDataRequest.h>
+
 #import "ConnectUtil.h"
 #import "DeviceServiceReachability.h"
 #import "DiscoveryManager.h"
